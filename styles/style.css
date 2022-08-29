@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: "Source Sans Pro", sans-serif;
+}
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+.flex_box {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.dark_bg {
+  background-color: #23233b;
+  color: #fff;
+}
+.subtitle {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 21px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #f6f6f8;
+}
+.main_title {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 55px;
+  line-height: 60px;
+  color: #f6f6f8;
+}
+.main_prg {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 33px;
+  color: #f6f6f8;
+  margin: 10px 0;
+}
+.main_btn {
+  background: #57d9a6;
+  border-radius: 4px;
+  padding: 10px 20px;
+  border: none;
+  margin-top: 10px;
+}
+.gap {
+  gap: 100px;
+}
+section {
+  padding: 50px 0;
+}
+.line {
+  width: 120px;
+  height: 3px;
+  border-radius: 10px;
+  background-color: #57d9a6;
+  margin-top: 10px;
+}
+.main_title2 {
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 53px;
+  color: #f6f6f8;
+}
+.pr-80 {
+  padding-right: 80px;
+}

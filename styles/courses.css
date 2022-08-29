@@ -1,0 +1,10 @@
+.courses {
+  text-align: center;
+}
+.courses .line {
+  margin: 0 auto;
+}
+.courses p {
+  width: 50%;
+  margin: 20px auto;
+}
